@@ -37,6 +37,10 @@ main {
   line-height: 80px;
   margin-bottom: 32px;
 }
+.styled-word {
+  color: #a36a4f;
+  font-weight: 800;
+}
 .styled-mark {
   display: none;
 }

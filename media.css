@@ -102,6 +102,9 @@
   .text-wrapper p::first-letter {
     font-size: 26px;
   }
+  .styled-word {
+    margin-left: 4px;
+  }
   .styled-mark {
     display: block;
     margin: 0 10px;
@@ -221,6 +224,9 @@
   }
   .text-wrapper p::first-letter {
     font-size: 20px;
+  }
+  .styled-word {
+    margin-left: 4px;
   }
   .styled-mark {
     display: block;
